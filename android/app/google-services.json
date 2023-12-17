@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923440131956",
+    "project_id": "creamy-app-872a1",
+    "storage_bucket": "creamy-app-872a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923440131956:android:0eb9e954b8e88669f30621",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_shinta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB78SYpUgC2pagzTS_uJJCDU6U1KWpGGxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
